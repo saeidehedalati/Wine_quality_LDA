@@ -1,4 +1,4 @@
-## Classifying Positive and Negative Restaurant Reviews
+## Classifying wine quality based on physicochemical tests
 
 (Source : https://archive.ics.uci.edu/ml/datasets/wine+quality)
 
